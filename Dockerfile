@@ -1,2 +1,2 @@
 FROM nginx
-COPY index.html /rswan/share/nginx/html
+COPY index.html /usr/share/nginx/html
